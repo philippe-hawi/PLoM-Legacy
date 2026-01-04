@@ -45,7 +45,7 @@ setup(
     description=description,
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/philippehawi/PLoM-Legacy",
+    url="https://github.com/philippe-hawi/PLoM-Legacy",
     author="Philippe Hawi",
     author_email="hawi@usc.edu",
     license="MIT",
